@@ -62,6 +62,7 @@ This will be updated from time to time.
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/zeith.png?raw=true" width="100" height="100" alt=""/>
 
 **[CurseForge](https://www.curseforge.com/members/zeith)**
+**[Modrinth](https://modrinth.com/user/Zeith)**
 
 ## Skyrina
 
@@ -157,3 +158,9 @@ This will be updated from time to time.
 
 **[CurseForge](https://www.curseforge.com/members/athebyne)**
 **[Modrinth](https://modrinth.com/user/Athebyne)**
+
+## Jake_Evans
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/jake_evans.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/jake_evans)**
