@@ -164,3 +164,9 @@ This will be updated from time to time.
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/jake_evans.png?raw=true" width="100" height="100" alt=""/>
 
 **[CurseForge](https://www.curseforge.com/members/jake_evans)**
+
+## nebulousIris
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/nebulousiris.png?raw=true" width="100" height="100" alt=""/>
+
+**[Modrinth](https://modrinth.com/user/nebulousIris)**
