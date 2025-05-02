@@ -39,3 +39,98 @@
 
 **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestone)**
 **[Modrinth](https://modrinth.com/mod/lodestonelib)**
+
+## Biverom
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/biverom.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/biverom)**
+**[Modrinth](https://modrinth.com/user/Biverom)**
+
+## OnixTheCat
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/onixthecat.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/onixthecat)**
+**[Modrinth](https://modrinth.com/user/OnixTheCat)**
+
+## Zeith
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/zeith.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/zeith)**
+
+## Skyrina
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/skyrina.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/skyrina)**
+**[Modrinth](https://modrinth.com/user/skyrina)**
+
+## BlackAures
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/blackaures.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/blackauresart)**
+
+## Cmdpro
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/cmdpro.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/cmdpro)**
+**[Modrinth](https://modrinth.com/user/Cmdpro)**
+
+## EsetKalenko
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/cmdpro.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/esetkalenko)**
+**[Modrinth](https://modrinth.com/user/EsetKalenko)**
+
+## Doctor4t
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/doctor4t.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/doctor4t)**
+**[Modrinth](https://modrinth.com/user/RAT)**
+
+## I_am_Merp
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/i_am_merp.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/i_am_merp)**
+**[Modrinth](https://modrinth.com/user/I_am_Merp)**
+
+## AranaiRa
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/aranaira.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/aranaira)**
+
+## Dafuqs
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/dafuqs.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/dafuqsy)**
+**[Modrinth](https://modrinth.com/user/DaFuqs)**
+
+## CorgiTaco
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/corgitaco.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/corgi_taco)**
+**[Modrinth](https://modrinth.com/user/CorgiTaco)**
+
+## unascribed
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/unascribed.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/unascribed)**
+**[Modrinth](https://modrinth.com/user/unascribed)**
+
+## EmmaTheMartian
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/emmathemartian.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/emmathemartian)**
+**[Modrinth](https://modrinth.com/user/EmmaTheMartian)**
