@@ -1,3 +1,6 @@
+This is a list of furry minecraft modders and nothing more.  
+This will be updated from time to time.  
+
 ## MaxBogomol
 
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/maxbogomol.png?raw=true" width="100" height="100" alt=""/>
