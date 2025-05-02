@@ -6,6 +6,9 @@
 
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/sammysemicolon.png?raw=true" width="100" height="100" alt=""/>
 
+![CurseForge](https://www.curseforge.com/members/sammysemicolon)
+![Modrinth](https://modrinth.com/user/SammySemicolon)
+
 ### Malum
 
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/mods/malum.png?raw=true" width="100" height="100" alt=""/>
