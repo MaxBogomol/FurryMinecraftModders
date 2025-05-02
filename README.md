@@ -134,3 +134,23 @@
 
 **[CurseForge](https://www.curseforge.com/members/emmathemartian)**
 **[Modrinth](https://modrinth.com/user/EmmaTheMartian)**
+
+## ReikaKalseki
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/reikakalseki.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/reikakalseki)**
+
+## quat
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/quat.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/quat)**
+**[Modrinth](https://modrinth.com/user/quat)**
+
+## Athebyne
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/athebyne.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/athebyne)**
+**[Modrinth](https://modrinth.com/user/Athebyne)**
