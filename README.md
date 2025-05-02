@@ -82,7 +82,7 @@
 
 ## EsetKalenko
 
-<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/cmdpro.png?raw=true" width="100" height="100" alt=""/>
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/esetkalenko.png?raw=true" width="100" height="100" alt=""/>
 
 **[CurseForge](https://www.curseforge.com/members/esetkalenko)**
 **[Modrinth](https://modrinth.com/user/EsetKalenko)**
