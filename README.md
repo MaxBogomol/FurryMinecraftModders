@@ -83,9 +83,9 @@ This will be updated from time to time.
 
 **[CurseForge](https://www.curseforge.com/members/blackauresart)**
 
-## Cmdpro
+## Cimdy
 
-<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/cmdpro.png?raw=true" width="100" height="100" alt=""/>
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/cimdy.png?raw=true" width="100" height="100" alt=""/>
 
 **[CurseForge](https://www.curseforge.com/members/cmdpro)**
 **[Modrinth](https://modrinth.com/user/Cmdpro)**
@@ -170,3 +170,10 @@ This will be updated from time to time.
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/jake_evans.png?raw=true" width="100" height="100" alt=""/>
 
 **[CurseForge](https://www.curseforge.com/members/jake_evans)**
+
+## LambdAurora
+
+<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/lambdaurora.png?raw=true" width="100" height="100" alt=""/>
+
+**[CurseForge](https://www.curseforge.com/members/lambdaurora)**
+**[Modrinth](https://modrinth.com/user/LambdAurora)**
