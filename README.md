@@ -151,13 +151,6 @@ This will be updated from time to time.
 **[CurseForge](https://www.curseforge.com/members/doctor4t)**
 **[Modrinth](https://modrinth.com/user/RAT)**
 
-## I_am_Merp
-
-<img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/i_am_merp.png?raw=true" width="100" height="100" alt=""/>
-
-**[CurseForge](https://www.curseforge.com/members/i_am_merp)**
-**[Modrinth](https://modrinth.com/user/I_am_Merp)**
-
 ## Skyrina
 
 <img src="https://github.com/MaxBogomol/FurryMinecraftModders/blob/main/files/modders/skyrina.png?raw=true" width="100" height="100" alt=""/>
